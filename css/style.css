@@ -272,7 +272,7 @@ h6 {
 
 #hero {
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   /*background: #37517e;*/
   background: linear-gradient(rgba(0, 141, 162, 10), rgba(0, 141, 162, 0)), url("../images/maybe.webp") fixed center center;
   font-family: 'Montserrat', sans-serif;
@@ -761,7 +761,6 @@ li{
   #footer .credits {
     text-align: center;
     float: none;
-    color: #FFAE00
   }
 
   #footer .credits {
